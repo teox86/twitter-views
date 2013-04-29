@@ -1,0 +1,8 @@
+
+<dwr>
+  <allow>
+    <create creator="new" javascript="TwitterOntology">
+      <param name="class" value="servlet.TwitterOntology"/>
+    </create>
+  </allow>
+</dwr>

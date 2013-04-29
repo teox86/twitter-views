@@ -1,0 +1,19 @@
+body
+{
+	font-family: 'Droid Sans', 'Arial', sans-serif;
+}
+
+.myList
+{
+	list-style: none;
+}
+
+.myList li
+{
+	font-size: 14px;
+	width: 200px;
+	background-color: #333;
+	color: #CCC;
+	padding: 5px;
+	margin: 1px;
+}
