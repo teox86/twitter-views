@@ -1,5 +1,8 @@
-package twitter.streaming;
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
 
+package twitter.streaming;
 
 import java.util.ArrayList;
 import java.util.Map;

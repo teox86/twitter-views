@@ -1,3 +1,7 @@
+/*
+ * Modified by: Matteo Pozza <teox86@virgilio.it>
+ */
+
 var accordionItems = new Array();
 var file;
 var selected = new Array();

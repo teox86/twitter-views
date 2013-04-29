@@ -1,3 +1,7 @@
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
+
 var Network, activate, root;
 
 // Define margins and positions

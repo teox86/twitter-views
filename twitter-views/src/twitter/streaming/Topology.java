@@ -1,3 +1,7 @@
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
+
 package twitter.streaming;
 
 /*

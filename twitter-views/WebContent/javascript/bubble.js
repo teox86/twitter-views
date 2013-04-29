@@ -1,3 +1,6 @@
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
 // Hashtag count bubble graph
 
 var serverResponse;

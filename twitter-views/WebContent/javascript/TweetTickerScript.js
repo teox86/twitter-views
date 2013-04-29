@@ -1,3 +1,6 @@
+/*
+ * Modified by: Matteo Pozza <teox86@virgilio.it>
+ */
 
 	// Show tweets inside the "Tweet ticker"
 

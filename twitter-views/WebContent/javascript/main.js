@@ -1,3 +1,7 @@
+/*
+ * Modified by: Matteo Pozza <teox86@virgilio.it>
+ */
+
 function init()
 {
 	var selected = new Array();

@@ -1,3 +1,7 @@
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
+
 package twitter.streaming;
 
 import java.util.Collections;
@@ -42,25 +46,7 @@ public class HashtagResult extends BaseBasicBolt{
 
 	@Override
 	public void prepare(Map stormConf, TopologyContext context) {
-	/*	TimerTask task = new TimerTask() {
-			
-			@Override
-			public void run() {
-				Map mapResults = new LinkedHashMap();
-			    List l1 = new LinkedList();
-				Map<String, Integer> sortedMap =  sortByComparator(hashtags);
-				for(Map.Entry<String, Integer> entry : sortedMap.entrySet()){
-				    Map m1 = new LinkedHashMap();
-				    m1.put("name", entry.getKey());
-				    m1.put("count", entry.getValue());
-				    l1.add(m1);
-				}
-				mapResults.put("children", l1);
-			}
-			
-		};
-		Timer t = new Timer();
-		t.scheduleAtFixedRate(task, REFRESH_TIME, REFRESH_TIME);*/
+
 	}
 
 	@Override

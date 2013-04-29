@@ -1,6 +1,8 @@
-package twitter.streaming;
+/*
+ * Created by: Matteo Pozza <teox86@virgilio.it>
+ */
 
-//Copyright (c) P. Taylor Goetz (ptgoetz@gmail.com)
+package twitter.streaming;
 
 import java.io.BufferedReader;
 import java.io.IOException;

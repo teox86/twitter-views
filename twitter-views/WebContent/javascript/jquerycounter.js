@@ -4,6 +4,9 @@
  * Copyright (c) 2012 Sophilabs <hi@sophilabs.com>
  * MIT License
  */
+/*
+ * Modified by: Matteo Pozza <teox86@virgilio.it>
+ */
  
 var FILE_URL = "AjaxServlet?service=tweetsCount";
 var countValue = 0;
